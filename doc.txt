@@ -1,0 +1,8 @@
+ <style>body { background-color: rgb(242, 120, 146); }</style>
+
+
+<!-- Желтый квадрат -->
+<div style="width: 20px; height: 100px; margin:5px;   border: 10px solid rgb(0, 0, 200);  ;background-color: red;"></div>
+
+<img src="image.jpg" alt="map" usemap="#map" style="height: 150px;  position: absolute; top: 20;  right: 0;">
+
